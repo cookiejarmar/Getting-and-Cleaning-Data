@@ -13,9 +13,11 @@ The data for the project:
 ##list of variables used in column names
 
 subject variable
+
         1...30
 
 activity variable
+
         LAYING
         SITTING
         STANDING
@@ -23,7 +25,6 @@ activity variable
         WALKING_DOWNSTAIRS
         WALKING_UPSTAIRS
 
-feature variables
 66 additional feature variables listed below; each observation within is the mean of the listed variable for the corresponding subject and activity
 
         tBodyAcc-mean()-X
