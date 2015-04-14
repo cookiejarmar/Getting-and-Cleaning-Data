@@ -13,6 +13,7 @@
 
 ##feature variables
 66 additional feature variables listed below; each observation within is the mean of the listed variable for the corresponding subject and activity
+
         tBodyAcc-mean()-X
         tBodyAcc-mean()-Y
         tBodyAcc-mean()-Z
