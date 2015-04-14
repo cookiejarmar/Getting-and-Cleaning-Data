@@ -1,9 +1,21 @@
 #Code Book
 
-##subject variable
+##About the data
+
+This is where the data was obtained from:
+
+        http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+The data for the project:
+
+        https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+##list of variables used in column names
+
+subject variable
         1...30
 
-##activity variable
+activity variable
         LAYING
         SITTING
         STANDING
@@ -11,7 +23,7 @@
         WALKING_DOWNSTAIRS
         WALKING_UPSTAIRS
 
-##feature variables
+feature variables
 66 additional feature variables listed below; each observation within is the mean of the listed variable for the corresponding subject and activity
 
         tBodyAcc-mean()-X
