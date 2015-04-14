@@ -18,3 +18,7 @@ The code then does the follwing:
 
 The CodeBook.md explains the variable names.
 
+##Run from Command Line
+To run the script from run_analysis.R located in this repo.
+
+
