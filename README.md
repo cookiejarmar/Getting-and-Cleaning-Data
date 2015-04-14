@@ -16,6 +16,8 @@ The code then does the follwing:
     Creates the variables names from the various supplemental files that contain the information
     Finds the mean of the data for each permutation of the variables "subject", "actvity" and "feature"
 
+I have chosen to leave the data in its wide form.
+
 The CodeBook.md explains the variable names.
 
 ##Run from Command Line
