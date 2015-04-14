@@ -1,8 +1,8 @@
 # Getting-and-Cleaning-Data
 Project for Class Assignment
 
-Getting And Cleaning Data - Course Project
-Introduction
+##Getting And Cleaning Data - Course Project
+##Introduction
 
 This repo contains my course project for Getting And Cleaning Data.
 
