@@ -12,11 +12,11 @@ The data for the project:
 
 ##list of variables used in column names
 
-subject variable
+"subject" variable is a list of the ID numbers for the people in the experiment
 
         1...30
 
-activity variable
+"activity" variable is the activities the subjects performed and were tested on
 
         LAYING
         SITTING
@@ -25,7 +25,7 @@ activity variable
         WALKING_DOWNSTAIRS
         WALKING_UPSTAIRS
 
-66 additional feature variables listed below; each observation within is the mean of the listed variable for the corresponding subject and activity
+The 66 additional "feature" variables listed below; each observation is the mean of the listed "feature" variable for the corresponding "subject" and "activity" observation; the unit of measurement is Hz
 
         tBodyAcc-mean()-X
         tBodyAcc-mean()-Y
